@@ -62,6 +62,8 @@ h1{
     background-color: white;
     border-radius: 0%  50px 50px 0;
     padding: 1%;
+    font-family: Signika_Negative;
+
 }
 .BlockInfo_1 > h2{
     font-family: Signika_Negative;
@@ -87,6 +89,7 @@ h1{
     background-color: white;
     border-radius: 50px  0 0 50px;
     padding: 1%;
+    font-family: Signika_Negative;
 
     margin-left: auto;
 }
